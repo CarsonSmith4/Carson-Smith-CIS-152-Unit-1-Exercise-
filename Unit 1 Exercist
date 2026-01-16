@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<h1>Carson Smith</h1>
+</head>
+<body>
+<a href="parkland.edu">Parkland</a>
+<ul>
+<li>Sunday</li>
+<li>Monday</li>
+<li>Tuesday</li>
+<li>Wednesday</li>
+<li>Thursday</li>
+<li>Friday</li>
+<li>Saturday</li>
+</ul>
+<ol type="A">
+<li>HTML</li>
+<li>XML</li>
+<li>XHTML</li>
+</ol>
+<q>Oh no, love, you're not alone</q>
+<h3>David Bowie</h3>
+<p><strong>A diagram of the organization of a website is called a site map. A site map represents the structure, or organization</strong></p>
+</body>
+</html>
